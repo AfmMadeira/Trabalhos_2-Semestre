@@ -13,7 +13,7 @@
  * 
  * Estado : 
  * 
- * 		- Finalizado. 
+ * 		- Finalizado e com nota 20!!!!!!
  */
  
 #include <stdio.h>
